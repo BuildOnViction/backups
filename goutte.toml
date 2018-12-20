@@ -1,0 +1,15 @@
+retention = 10
+
+[volumes]
+names = [
+  'sgp1-vol-mainnet-grafana-db',
+  'sgp1-vol-mainnet-grafana-influx',
+  'sgp1-vol-mainnet-graylog-db',
+  'sgp1-vol-mainnet-graylog-es',
+  'sgp1-vol-mainnet-graylog-journal',
+  'sgp1-vol-mainnet-masternode01-chaindata',
+  'sgp1-vol-mainnet-masternode02-chaindata',
+  'sgp1-vol-mainnet-masternode03-chaindata',
+  'sgp1-vol-mainnet-tomomaster-db',
+  'sgp1-vol-mainnet-tomoscan-db',
+]
