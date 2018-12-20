@@ -5,4 +5,4 @@ install:
   - pip install goutte
 
 script:
-  - goutte
+  - goutte goutte.toml
