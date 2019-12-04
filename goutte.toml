@@ -7,7 +7,7 @@ names = [
   'sgp1-vol-mainnet-graylog-db',
   'sgp1-vol-mainnet-graylog-es',
   'sgp1-vol-mainnet-graylog-journal',
-  'sgp1-vol-mainnet-masternode01-chaindata',
+  'sgp1-vol-mainnet-masternode02-chaindata',
   'sgp1-vol-mainnet-tomomaster',
   'sgp1-vol-mainnet-tomoscan',
 ]
