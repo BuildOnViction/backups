@@ -1,2 +1,2 @@
-# backups
-Powered by [💧tomochain/goutte](https://github.com/tomochain/goutte)
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
